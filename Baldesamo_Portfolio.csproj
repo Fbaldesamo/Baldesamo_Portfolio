@@ -94,6 +94,7 @@
     <Content Include="IMG\ws5.png" />
     <Content Include="IMG\ws6.jpg" />
     <Content Include="script.js" />
+    <Content Include="try1.html" />
     <Content Include="Web.config" />
     <Content Include="Baldesamo_Portfolio.aspx" />
   </ItemGroup>
