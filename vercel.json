@@ -1,13 +1,13 @@
 {
   "builds": [
     {
-      "src": "src/index.html",
+      "src": "src/Baldesamo_Portfolio.aspx",
       "use": "@vercel/static"
     }
   ],
   "routes": [
     {
-      "src": "/json/yourfile.json",
+      "src": "vercel.json",
       "dest": "/path/to/yourfile.json"
     }
   ]
